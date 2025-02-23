@@ -1,0 +1,2 @@
+Description: None
+Command line: vimana/train_multihead.py --model-name baseline --epochs 20 --batch-size 12 --train-tf-dir /mnt/diskb/shared/ireco/datasets/000-old//train --validation-tf-dir /mnt/diskb/shared/ireco/datasets/000-old//validation --artifacts-dir /mnt/diskb/shared/ireco/code/training-side-3-2-phase-1/artifacts/gifted_visvesvaraya_20250214_2357 --patience 25
